@@ -8,4 +8,4 @@ def home():
 
 @app.route('/about')
 def about():
-  return 
+  return  'About'
